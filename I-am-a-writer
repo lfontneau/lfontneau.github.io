@@ -52,6 +52,7 @@ footer {
 </header>
 <body>
 <div class="copy">
+<p>Hello World<p>
 </div>
 <div class="ad1">
 </div>
