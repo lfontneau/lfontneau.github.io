@@ -1,4 +1,4 @@
-<!DOCTYPE>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -10,6 +10,14 @@ header {
 
 }
 body {
+
+}
+div {
+
+}
+.copy {
+
+.ad1 {
 
 }
 article {
@@ -33,17 +41,20 @@ a {
 img {
 
 }
-div {
-
-}
 footer {
 
 }
 </style>
 
 </head>
-<body>
+<header>
 
+</header>
+<body>
+<div class="copy">
+</div>
+<div class="ad1">
+</div>
 </body>
 
 </html>
